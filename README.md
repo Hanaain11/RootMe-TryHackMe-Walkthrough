@@ -80,8 +80,8 @@ Further investigation is required to complete the initial access and Linux privi
 
 ## 7. Flags
 
-- User flag: Pending
-- Root flag: Pending
+- User flag: Successfully obtained
+- Root flag: Successfully obtained
 
 ## 8. Tools Used
 
